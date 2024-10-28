@@ -1,0 +1,2 @@
+# Ignore the safetensor file
+bert-phishing-classifier/model.safetensors
